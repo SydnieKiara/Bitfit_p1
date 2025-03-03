@@ -1,10 +1,10 @@
 # Android Project 5 - *BitFit*
 
-Submitted by: **Charles Lett Jr.**
+Submitted by: **Sydnie Johnson**
 
 **BitFit** is a health metrics app that allows users to track the calorie count of foods they consume throughout the day.
 
-Time spent: **11** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -25,15 +25,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Implemented randomization for daily image.
-- [X] User can tap the image to randomly select another image.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cclett2000/bitfit/blob/master/bitfitDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/cclett2000/bitfit/blob/master/horizontalDemo-bitfit.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='project 5 Walkthrough .gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/). 
 
@@ -44,7 +42,7 @@ SQLite syntax is *VERY* particular
 
 ## License
 
-    Copyright [2022] [Charles Lett Jr.]
+    Copyright [2025] [Sydnie Johnson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
